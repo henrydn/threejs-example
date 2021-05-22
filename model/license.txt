@@ -1,0 +1,11 @@
+Model Information:
+* title:	SUV VR Rover 3D Model
+* source:	https://sketchfab.com/3d-models/suv-vr-rover-3d-model-eaca1f92523e43c2a56f195a5e657e37
+* author:	𝔖𝔫𝔬𝔴𝔦𝔢 ℌ𝔬𝔪𝔦𝔢 (https://sketchfab.com/snowiehomie)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SUV VR Rover 3D Model" (https://sketchfab.com/3d-models/suv-vr-rover-3d-model-eaca1f92523e43c2a56f195a5e657e37) by 𝔖𝔫𝔬𝔴𝔦𝔢 ℌ𝔬𝔪𝔦𝔢 (https://sketchfab.com/snowiehomie) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)

@@ -1,0 +1,21 @@
+{
+  "name": "webgl",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "dependencies": {
+    "@types/three": "^0.128.0",
+    "lodash": "^4.17.21",
+    "three": "^0.128.0"
+  },
+  "devDependencies": {
+    "@types/node": "^15.6.0",
+    "webpack": "^5.37.1",
+    "webpack-cli": "^4.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

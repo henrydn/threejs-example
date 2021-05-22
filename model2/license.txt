@@ -1,0 +1,11 @@
+Model Information:
+* title:	MUZTANK VR dae Collada 3D Model
+* source:	https://sketchfab.com/3d-models/muztank-vr-dae-collada-3d-model-f377bef24ff14b09a5a0635aecdd4043
+* author:	𝔖𝔫𝔬𝔴𝔦𝔢 ℌ𝔬𝔪𝔦𝔢 (https://sketchfab.com/snowiehomie)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MUZTANK VR dae Collada 3D Model" (https://sketchfab.com/3d-models/muztank-vr-dae-collada-3d-model-f377bef24ff14b09a5a0635aecdd4043) by 𝔖𝔫𝔬𝔴𝔦𝔢 ℌ𝔬𝔪𝔦𝔢 (https://sketchfab.com/snowiehomie) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
